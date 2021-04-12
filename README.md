@@ -1,4 +1,4 @@
-## Welcome to Dangr Funds
+## Welcome to Danger Funds
 
 You can use the [editor on GitHub](https://github.com/dangerfunds/dangerfunds.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
