@@ -2,7 +2,7 @@
 
 Danger Funds Token or DND are community-driven projects on #BSC with its deflationary function, 6% locked to liquidity - 4% redistributed to holders.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Reflection, LP rewards, burn each tx is DND smart contract function, you can cross check our smart contract on [Bscscan](https://bscscan.com)
 
 ### Markdown
 
