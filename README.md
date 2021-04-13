@@ -5,7 +5,7 @@ Reflection, LP rewards, burn each tx is DND smart contract function, you can cro
 
 ## Smart Contract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shorten version, you can directly match our smart contracts on [Github](https://github.com/dangertoken/dangertoken.github.io/blob/main/contracts) or [Bscscan](https://bscscan.com)
 
 ```markdown
 
