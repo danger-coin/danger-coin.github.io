@@ -1,6 +1,7 @@
 ## Danger Token
 
-Danger Token or DND are community-driven projects on #BSC, please provide liquidity & yield farming pool will be added so more people will come and provide more liquidity :)
+Dangercoin or DND are community-driven projects on #BSC, please provide liquidity & yield farming pool will be added so more people will come and provide more liquidity :)
+You can buy and provide liquidity [here](https://exchange.pancakeswap.finance/#/add/BNB/0xBFC97e532b38a3017D3668909697439D98Da49F6)
 
 ## Tokenomics
 
