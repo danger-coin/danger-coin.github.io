@@ -13,12 +13,23 @@ Liquidity | Team share | Marketing | Bounty
 All liquiidity will be sent to 0x000dead address | 10% will be fully unlocked after listing, 90% locked and unlock every 7 days by 10% | fully unlocked | fully unlocked
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tokenomics can be changed due to community vote
 
-### Jekyll Themes
+## Short Roadmap
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dangerfunds/dangerfunds.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Q1 -Social setup
+   -Deploy smart contracts
+   -List pancakeswap
+   
+Q2 -Coinmarketcap
+   -Coingecko
+   -Public awareness
 
-### Support or Contact
+Full Roadmap on new website, stay tune!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Social or Contact
+
+[Github](https://github.com/dangertoken)
+[Websites](https://dangertoken.github.io)
+[Telegram Chat](https://t.me/dangertoken)
+[Telegram Announcement](https://t.me/dangerannounce)
