@@ -1,7 +1,6 @@
 ## Danger Token
 
-Danger Token or DND are community-driven projects on #BSC with its deflationary function, 6% locked to liquidity - 4% redistributed to holders.
-Reflection, LP rewards, burn each tx is DND smart contract function, you can cross check our smart contract on [Bscscan](https://bscscan.com)
+Danger Token or DND are community-driven projects on #BSC, please provide liquidity & yield farming pool will be added so more people will come and provide more liquidity :)
 
 ## Tokenomics
 
